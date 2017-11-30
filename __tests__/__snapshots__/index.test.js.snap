@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dynamic Import renders correctly 1`] = `
+<App>
+  <div
+    className="App"
+  >
+    <p>
+      Dynamic import component example
+    </p>
+    <button
+      onClick={[Function]}
+    >
+       Load Comp
+    </button>
+    <p>
+       Component not loaded 
+    </p>
+  </div>
+</App>
+`;
